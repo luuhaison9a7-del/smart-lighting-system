@@ -3,13 +3,14 @@ Arduino-based automated lighting system with 5-second debounce logic
 # Smart Automated Lighting System
 
 ## Overview
-Dự án mô phỏng hệ thống chiếu sáng tự động thông minh. Hệ thống tự động nhận diện cường độ ánh sáng môi trường để điều khiển bật/tắt thiết bị điện công suất lớn thông qua Rơ-le.
+Dự án mô phỏng và chế tạo hệ thống chiếu sáng tự động có khả năng lọc nhiễu, ứng dụng nền tảng vi điều khiển Arduino. Hệ thống có khả năng liên tục giám sát cường độ ánh sáng môi trường để điều khiển đóng/ngắt các thiết bị điện công suất lớn. Hệ thống được thiết kế tối ưu hóa cả về mặt phần cứng (mạch bảo vệ) và phần mềm (thuật toán lọc nhiễu).
 
 ## Hardware Stack
 * Arduino Uno R3
-* Quang trở & IC LM393 (LDR Light Sensor Module)
+* LDR Light Sensor Module
 * Module Relay 5V (Active HIGH - High Level Trigger)
-* Breadboard & Đèn LED báo hiệu
+* Breadboard & LED 
+* Jumper wires
 
 ## Key Technical Features
 * Electrical Isolation: Sử dụng Rơ-le để tách biệt hoàn toàn mạch điều khiển (5V) và mạch tải, chống chập cháy ngược.
@@ -17,3 +18,4 @@ Dự án mô phỏng hệ thống chiếu sáng tự động thông minh. Hệ t
 
 ## Wiring & Setup
 ![z7648991340033_8d50ce85ab1ad60313e79e1567014072](https://github.com/user-attachments/assets/f2c9fa7b-63b0-478f-b727-c0f78c5e7b60)
+<img width="1320" height="523" alt="smart-lighting-system" src="https://github.com/user-attachments/assets/7ba01b1e-0158-4664-844c-4c79a4c20c78" />
