@@ -1,5 +1,5 @@
 # Smart-Linghting-System
-Arduino-based automated lighting system with 5-second debounce logic
+Hệ thống chiếu sáng tự động dựa trên Arduino với thuật toán lọc nhiễu 5 giây
 
 # Smart Automated Lighting System
 
