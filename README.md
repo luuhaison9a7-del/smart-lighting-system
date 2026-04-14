@@ -8,7 +8,7 @@ Dự án mô phỏng và chế tạo hệ thống chiếu sáng tự động có
 
 ## Hardware Stack
 * Arduino Uno R3
-* LDR Light Sensor Module
+* Module LDR
 * Module Relay 5V (Active High - High Level Trigger)
 * Breadboard & LED 
 * Jumper wires
