@@ -1,6 +1,5 @@
 # Smart-Linghting-System
-Hệ thống chiếu sáng tự động dựa trên Arduino với thuật toán lọc nhiễu 5 giây
-
+Hệ thống chiếu sáng tự động dựa trên Arduino 
 # Smart Automated Lighting System
 
 ## Overview
