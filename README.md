@@ -14,8 +14,8 @@ Dự án mô phỏng và chế tạo hệ thống chiếu sáng tự động có
 * Jumper wires
 
 ## Key Technical Features
-* Electrical Isolation: Sử dụng Rơ-le để tách biệt hoàn toàn mạch điều khiển (5V) và mạch tải, chống chập cháy ngược.
-* Thuật toán Chống nhiễu (Debounce Logic): Xây dựng thuật toán trì hoãn 5 giây để lọc nhiễu ánh sáng (ví dụ: đèn pha xe máy lướt qua) giúp Rơ-le hoạt động ổn định, tránh hiện tượng bật/tắt liên tục.
+* **Electrical Isolation:** Sử dụng Rơ-le để tách biệt hoàn toàn mạch điều khiển (5V) và mạch tải, chống chập cháy ngược.
+* **Thuật toán Chống nhiễu (Debounce Logic):** Xây dựng thuật toán trì hoãn 5 giây để lọc nhiễu ánh sáng (ví dụ: đèn pha xe máy lướt qua) giúp Rơ-le hoạt động ổn định, tránh hiện tượng bật/tắt liên tục.
 
 ## Wiring & Setup
 <img width="2560" height="1920" alt="Wiring   Setup PNG" src="https://github.com/user-attachments/assets/fdb80c48-0a02-4ce5-989a-f407005cb16e" />
